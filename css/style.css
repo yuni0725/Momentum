@@ -6,6 +6,7 @@ input {
     background: transparent;
     color: white;
     border-bottom: 2px solid white;
+    text-align:center
 }
 
 ::-webkit-input-placeholder {
